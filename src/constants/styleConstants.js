@@ -1,0 +1,17 @@
+export const StyleConstants = {
+    FLEX_END: 'flex-end',
+    FLEX_START: 'flex-start',
+    CENTER: 'center',
+    SPACE_BETWEEN: 'space-between',
+    SPACE_AROUND: 'space-around',
+    SPACE_EVENLY: 'space-evenly',
+    COLUMN: 'column',
+    COLUMN_REVERSE: 'column-reverse',
+    ABSOLUTE: 'absolute',
+    ROW: 'row',
+    FONT_BOLD: 'bold',
+    STYLE_AUTO: 'auto',
+    FLEX: 'flex',
+    WRAP: 'wrap',
+    NO_WRAP: 'nowrap',
+};
