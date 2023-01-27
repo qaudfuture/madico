@@ -4,7 +4,7 @@ import { DefaultTheme } from 'styled-components/native';
 export const DarkTheme: DefaultTheme = {
     // fonts: studentFonts,
     colors: {
-        primary: '#246BFD',
+        primary: '#52D2c6',
         secondary: '#3EA7DE',
         background: '#F5F5F5',
         white: '#FFF',

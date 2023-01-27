@@ -5,7 +5,7 @@ import { ButtonContainer } from './styles'
 const Button = ({ onPressButton }) => {
     return (
         <ButtonContainer onPress={onPressButton}>
-            <Text>button</Text>
+            <Text stye={{ color: "red", fontWeight: "bold" }}>button</Text>
         </ButtonContainer>
     );
 };
